@@ -1,7 +1,7 @@
 # Titanic Survival Analysis
 ### End-to-end data science portfolio — Dhivya Madhavan
 
-A rigorous, director-level analytical workflow applied to the Kaggle Titanic dataset. Every methodological decision is justified by a specific analytical finding — not convention.
+A rigorous, analytical workflow applied to the Kaggle Titanic dataset. Every methodological decision is justified by a specific analytical finding — not convention.
 
 ---
 
@@ -93,7 +93,7 @@ titanic-survival-analysis/
 
 ## About
 
-Dhivya Madhavan — Director of Analytics  
+Dhivya Madhavan
 [LinkedIn](https://linkedin.com/in/dhivya-madhavan) | [Kaggle](https://kaggle.com)
 
 > *"EDA is not decoration. Every chart should produce a 'therefore' that changes how you build the model."*
